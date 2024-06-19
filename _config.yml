@@ -1,8 +1,8 @@
 title: ORIENTAL PILSE
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-baseurl: "/orientalpulse.github.io" # the subpath of your site, e.g. /blog
-url: "https://zeksum.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://zeksum.github.io/orientalpulse.github.io/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
